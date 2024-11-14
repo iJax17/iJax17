@@ -1,5 +1,5 @@
-## Hola, Soy Jorge 👋
-
+<h1 align="center"> 🔍¡Bienvenidos a mi Perfil!🔎</h1>
+<p> 👋 Soy Jorge, Estudiante actuaal de ingenieria en sistemas</p>
 <br>
 <table border="0">
   <tbody>
